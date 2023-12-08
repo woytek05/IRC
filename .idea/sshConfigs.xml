@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="s1.ct8.pl" id="b6fa178f-369d-414e-b603-c96d8c19bf08" port="22" customName="s1.ct8.pl" nameFormat="CUSTOM" username="woytek05" useOpenSSHConfig="true">
+        <option name="customName" value="s1.ct8.pl" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

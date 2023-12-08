@@ -1,0 +1,9 @@
+:root {
+    --main-bg-color: #22223b;
+    --textarea-bg-color: #4a4e69;
+    --text-color: #f2e9e4;
+    --textarea-border-radius: 10px;
+    --textarea-border: 5px solid #34374a;
+    --accent-color: #c9ada7;
+    --darker-accent-color: #9a8c98;
+}
